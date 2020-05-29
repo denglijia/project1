@@ -1,5 +1,5 @@
 def test():
-    print("test")
+    print("test.py")
 
 if __name__ == '__main__':
     test()
